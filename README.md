@@ -6,7 +6,7 @@
 ## Contents:
 This page contains information on my skills, background as well as work experience:
 1. [Technical skills 💻](#my-technology-stack-hover-over-for-names)
-2. [University Projects 👩‍💻](#my-university-degree-)
+2. [University Projects 👩‍💻](#notable-university-projects)
 
 Additionally, here is my LinkedIn!:
 
@@ -46,7 +46,7 @@ Additionally, here is my LinkedIn!:
     <img src="https://img.icons8.com/color/48/kubernetes.png" title="Kubernetes"/>
 </div></center>
 
-## Notable University projects:
+# Notable University projects:
 
 * Dissertation - [Improved Density-Estimation and Restoration based Vector-Quantized Anomaly Detection](https://github.com/re8423/VQ_Anomaly_Improved): 83/100. [Pytorch]
     >![demo](https://github.com/re8423/VQ_Anomaly_Improved/blob/7f2a9b92a0ccf0d49124d1951eaca029cf132d84/Images/light_wise_vae_trans_anom(1).gif)
