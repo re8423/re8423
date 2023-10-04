@@ -7,7 +7,6 @@
 This page contains information on my skills, background as well as work experience:
 1. [Technical skills 💻](#my-technology-stack-hover-over-for-names)
 2. [University Projects 👩‍💻](#my-university-degree-)
-3. [Career 👷‍♀️](#my-career-)
 
 Additionally, here is my LinkedIn!:
 
